@@ -229,7 +229,7 @@ main {
 @media (max-width: 920px) {
 
     body {
-        padding-inline: .5em;
+        padding-inline: 1.2em;
     }
 
     header nav {
@@ -263,10 +263,10 @@ main {
     }
 
     .similar-item h1 {
-        font-size: 3em;
+        font-size: 2.5em;
     }
 
     .similar-item h4 {
-        font-size: 1.5em;
+        font-size: 1.2em;
     }
 }
