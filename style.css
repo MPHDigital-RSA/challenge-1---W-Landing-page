@@ -227,6 +227,11 @@ main {
 }
 
 @media (max-width: 920px) {
+
+    body {
+        padding-inline: .5em;
+    }
+
     header nav {
         display: none;
     }
